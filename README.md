@@ -1,1 +1,2 @@
-# Template for Machine Learning projects
+# Alternate Time Series Project
+-- Israel Dellinger
